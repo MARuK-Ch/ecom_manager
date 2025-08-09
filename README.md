@@ -54,4 +54,3 @@ Free
 
 e-mail: marikhasa1983@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)

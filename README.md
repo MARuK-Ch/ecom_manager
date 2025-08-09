@@ -30,7 +30,7 @@
 
 ### 🖼️ Примеры интерфейса
 
-![](screenshot_1.bmp)
+![](https://github.com/MARuK-Ch/ecom_manager/blob/main/screenshots/screenshot_1.bmp)
 ![](screenshot_2.bmp)
 ![](screenshot_3.bmp)
 

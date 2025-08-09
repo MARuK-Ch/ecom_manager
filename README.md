@@ -1,11 +1,11 @@
 <br/>
-<h3 align="center">E-Commerce Manager</h3>
+<h3 align="center">💻 E-Commerce Manager 💻</h3>
 <br/>
 <br/>
 
 <!-- ABOUT THE PROJECT -->
 
-### О проекте
+### 📢 О проекте
 
 Приложение для управления заказами с графическим интерфейсом и возможностью анализа данных по продажам.
 
@@ -30,11 +30,11 @@
 
 ### 🖼️ Примеры интерфейса
 
-![](https://github.com/MARuK-Ch/ecom_manager/blob/main/screenshots/screenshot_1.bmp)
-![](screenshot_2.bmp)
-![](screenshot_3.bmp)
+![](https://github.com/MARuK-Ch/ecom_manager/blob/main/screenshots/screenshot_1.jpg)
+![](https://github.com/MARuK-Ch/ecom_manager/blob/main/screenshots/screenshot_2.jpg)
+![](https://github.com/MARuK-Ch/ecom_manager/blob/main/screenshots/screenshot_3.jpg)
 
-<!-- GETTING STARTED -->
+
 
 ### 🚀 Запуск программы
 
@@ -42,13 +42,12 @@
 </br>
 </br>
 
-<!-- LICENSE -->
 
 #### License
 
 Free
 
-<!-- CONTACT -->
+</br>
 
 #### Contact
 
